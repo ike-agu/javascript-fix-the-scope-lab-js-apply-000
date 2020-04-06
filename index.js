@@ -1,4 +1,4 @@
-var animal = 'dog'
+levar animal = 'dog'
 
 function myAnimal() {
   // You should not need to modify this function
